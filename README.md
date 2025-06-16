@@ -9,4 +9,5 @@ of balance/fitness. The graph above shows an example of a simulation that took 4
 agent broke even and this strategy is not even maintained.
 
 To fill the Stocks folder use Yahoo Finance to download the past 30 years or so of NASDAQ 
-or NYSE prices. 
+or NYSE prices, the example folder is just to illustrate what it should look like and training
+on the example will not be efficacious.
