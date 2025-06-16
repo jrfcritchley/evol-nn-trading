@@ -1,2 +1,8 @@
 # evol-nn-trading
-A system for training neural net agents to trade stocks using an evolutionary algorithm
+A system for training neural net agents to trade stocks using an evolutionary algorithm.
+
+![Figure_2_AvgFinBal](https://github.com/user-attachments/assets/5e91f3ca-253f-438c-9605-88d721ff42d1)
+
+This is notably a poor stratedgy for learning stock trading as fitness fluctuates greatly
+from one generation to another. To fill the Stocks folder use Yahoo Finance to download the
+past 30 years or so of NASDAQ or NYSE prices. 
